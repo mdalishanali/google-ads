@@ -1,0 +1,1 @@
+https://docs.page/invertase/react-native-google-mobile-ads/displaying-ads#rewarded-ads
